@@ -1,0 +1,14 @@
+{
+  "name": "naiwa-running",
+  "version": "1.0.0",
+  "description": "奶蛙快跑：一个三维跑酷小游戏，单个 HTML 文件即可离线游玩",
+  "private": true,
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "esbuild": "^0.28.2",
+    "three": "^0.186.1"
+  }
+}
